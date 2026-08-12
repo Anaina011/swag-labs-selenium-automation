@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-13T02:27:59 IST" name="Suite" finished-at="2026-08-13T02:28:02 IST" duration-ms="3099">
+    <groups>
+      <group name="Sprint 1">
+        <method signature="LoginTestCases.verifySuccessfulLogin()[pri:0, instance:testcases.LoginTestCases@10d307f1]" name="verifySuccessfulLogin" class="testcases.LoginTestCases"/>
+      </group> <!-- Sprint 1 -->
+    </groups>
+    <test started-at="2026-08-13T02:27:59 IST" name="Test" finished-at="2026-08-13T02:28:02 IST" duration-ms="3099">
+      <class name="testcases.LoginTestCases">
+        <test-method is-config="true" signature="startExtendReport()[pri:0, instance:testcases.LoginTestCases@10d307f1]" started-at="2026-08-13T02:27:58 IST" name="startExtendReport" finished-at="2026-08-13T02:27:59 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtendReport -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.LoginTestCases@10d307f1]" started-at="2026-08-13T02:27:59 IST" name="launchBrowser" finished-at="2026-08-13T02:28:00 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifySuccessfulLogin()[pri:0, instance:testcases.LoginTestCases@10d307f1]" started-at="2026-08-13T02:28:00 IST" name="verifySuccessfulLogin" description="Verify user can successfully login to Sauce Demo application by valid credentials" finished-at="2026-08-13T02:28:02 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.LoginTestCases@10d307f1]" started-at="2026-08-13T02:28:02 IST" name="closeBrowser" finished-at="2026-08-13T02:28:02 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:testcases.LoginTestCases@10d307f1]" started-at="2026-08-13T02:28:02 IST" name="stopReport" finished-at="2026-08-13T02:28:02 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- testcases.LoginTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

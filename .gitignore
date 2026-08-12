@@ -1,0 +1,9 @@
+/target/
+/Reports/
+
+**/config.properties
+**/database.properties
+
+/.classpath
+/.project
+/.settings/
