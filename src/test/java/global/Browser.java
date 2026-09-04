@@ -106,5 +106,5 @@ public class Browser {
 		return MediaEntityBuilder.createScreenCaptureFromBase64String(ts.getScreenshotAs(OutputType.BASE64)).build();
 	}
 	
-	// Jenkins Poll SCM test
+	// // Jenkins Poll SCM test - updated
 }
